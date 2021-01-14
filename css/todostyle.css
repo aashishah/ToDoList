@@ -1,11 +1,11 @@
 body {
-    background: -webkit-linear-gradient(to right, #ff4b1f, #ff9068); /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #ff4b1f, #ff9068);
+    background: -webkit-linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
     font-family: 'Manrope', sans-serif;
 }
 
 h1 {
-    background-color: #ff2020;
+    background-color: #0f2027;
     color: white;
     margin: 0;
     padding: 10px 20px;
@@ -16,7 +16,7 @@ h1 {
 
 #container {
     background-color: #f7f7f7;
-    width: 360px;
+    width: 40%;
     margin: 100px auto;
     box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
 }
